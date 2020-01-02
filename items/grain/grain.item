@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "baa64c",
+  "ConveyorLength": 0.3,
+  "Weight": 2.0,
+  "MeshUri": "virs_industry_replacement_set/grain.obj"
+}

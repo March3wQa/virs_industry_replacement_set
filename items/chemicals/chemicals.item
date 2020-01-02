@@ -1,0 +1,7 @@
+{
+  "IsLiquid": true,
+  "Color": "7fff00",
+  "ConveyorLength": 0.3,
+  "Weight": 3.0,
+  "MeshUri": "base/freight_rail_station_edge_platform_barrel.obj"
+}

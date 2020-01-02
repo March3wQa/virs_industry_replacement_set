@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "a52a2a",
+  "ConveyorLength": 0.3,
+  "Weight": 1.5,
+  "MeshUri": "virs_industry_replacement_set/bauxite.obj"
+}

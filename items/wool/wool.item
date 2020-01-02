@@ -1,0 +1,7 @@
+{
+  "IsLiquid": false,
+  "Color": "ffffff",
+  "ConveyorLength": 0.3,
+  "Weight": 0.75,
+  "MeshUri": "base/cargo.obj"
+}
