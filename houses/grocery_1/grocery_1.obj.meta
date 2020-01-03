@@ -1,0 +1,117 @@
+{
+  "Materials": [
+    {
+      "Color": "00ffff",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "ff00ff",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "00ffff",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "ff00ff",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "ff00ff",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "00ffff",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "ff00ff",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "00ffff",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "7fffd4",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "f2f3f4",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "7cfc00",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "ff00ff",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "b22222",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "cd9575",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "e52b50",
+      "Glassiness": 0.0,
+      "Specular": 0.0,
+      "Smoothness": 0.0,
+      "Emission": 0.0
+    },
+    {
+      "Color": "4a4a4a",
+      "Glassiness": 1.0,
+      "Specular": 0.0,
+      "Smoothness": 1.0,
+      "Emission": 0.0
+    }
+  ],
+  "Variants": null
+}

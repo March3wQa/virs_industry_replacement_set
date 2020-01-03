@@ -1,0 +1,22 @@
+{
+  "PopulationRange": [
+    1,
+    1
+  ],
+  "CanHaveDemand": true,
+  "Size": {
+    "X": 4,
+    "Y": 2,
+    "Z": 4
+  },
+  "Liveries": {
+    "default": {
+      "MeshUri": "virs_industry_replacement_set/grocery_1.obj",
+      "MeshVariant": null,
+      "Lights": null
+    }
+  },
+  "Price": 10000,
+  "RunningCosts": null,
+  "Hidden": false
+}
