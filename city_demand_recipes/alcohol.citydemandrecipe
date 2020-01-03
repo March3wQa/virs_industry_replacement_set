@@ -1,0 +1,11 @@
+{
+  "ParentUri": null,
+  "BuildingUri": "virs_industry_replacement_set/grocery_1.house",
+  "ItemUri": "virs_industry_replacement_set/alcohol.item",
+  "Tier": 1,
+  "Demand": null,
+  "DemandMultiplier": null,
+  "Price": null,
+  "PriceMultiplier": 1.5,
+  "Biomes": null
+}

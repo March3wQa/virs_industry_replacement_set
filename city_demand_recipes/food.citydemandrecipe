@@ -1,0 +1,11 @@
+{
+  "ParentUri": null,
+  "BuildingUri": "virs_industry_replacement_set/grocery_1.house",
+  "ItemUri": "virs_industry_replacement_set/food.item",
+  "Tier": 1,
+  "Demand": null,
+  "DemandMultiplier": 2,
+  "Price": null,
+  "PriceMultiplier": null,
+  "Biomes": null
+}
